@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Python Competitive Programming Template - README</title>
+
 </head>
 <body>
   <h1>🐍 Python Competitive Programming Template</h1>
